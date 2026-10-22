@@ -4,7 +4,7 @@
 - **Qué se entrega:** *(notebook, documento…)*
 - **Quién hizo qué:**
   - Persona 1: Elisabet García Arévalo
-  - Persona 2: Francisco Javier Perez Luis
+  - Persona 2: Francisco Javier Pérez Luis
   - Persona 3: Eva Maria Gill Cabrera
   - Persona 4: Jukeiza Yetzabel Jimenez Cartalla
   - Persona 5: Adrian Mencey Rodriguez Arcila
