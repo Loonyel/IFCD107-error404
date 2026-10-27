@@ -7,5 +7,4 @@
   - Persona 2: Francisco Javier Pérez Luis
   - Persona 3: Eva Maria Gill Cabrera
   - Persona 4: Jukeiza Yetzabel Jimenez Cartalla
-  - Persona 5: Adrian Mencey Rodriguez Arcila
 - **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
