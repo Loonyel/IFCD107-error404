@@ -1,6 +1,6 @@
 # Sprint 6 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
+- **Reto:** *«Datos sucios, cliente impaciente»*
 - **Qué se entrega:** *informe_calidad.md.
 reto_S06.ipynb.
 README.md.*
