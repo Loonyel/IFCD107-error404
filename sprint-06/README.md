@@ -18,7 +18,7 @@ Cifras de control: 1545 → 1500 filas; AUC en validación cruzada 0,758 ± 0,02
 *Python 3.13, pandas 2.3.3, scikit-learn 1.9.1 (en Colab saldrán otras; las cifras pueden variar en el último decimal).
 Semilla fija: 42. Solo librerías del curso.*
 - Uso de la IA
-*Qué se pidió: explicar fillna, drop_duplicates y to_datetime con ejemplos pequeños; depurar un KeyError; revisar si el pipeline tiene fuga de datos; reescribir la tabla del informe sin cambiar cifras.
-Qué se revisó: cada línea se ejecutó y se entiende; las cifras del informe salen del cuaderno, no de la IA; no se instaló ningún paquete extra; no se subieron datos personales ni claves.
-Qué se cambió: cualquier sugerencia de rellenar nulos antes de partir train y test se descartó, porque sería fuga de datos; la imputación va dentro del Pipeline.
+*-Qué se pidió: explicar fillna, drop_duplicates y to_datetime con ejemplos pequeños; depurar un KeyError; revisar si el pipeline tiene fuga de datos; reescribir la tabla del informe sin cambiar cifras.
+-Qué se revisó: cada línea se ejecutó y se entiende; las cifras del informe salen del cuaderno, no de la IA; no se instaló ningún paquete extra; no se subieron datos personales ni claves.
+-Qué se cambió: cualquier sugerencia de rellenar nulos antes de partir train y test se descartó, porque sería fuga de datos; la imputación va dentro del Pipeline.
 (Ejemplo de referencia: cada equipo cuenta lo que hizo de verdad, incluidos los fallos concretos de la IA que detecte.)*
