@@ -1,9 +1,9 @@
 # Sprint 6 · Entregable
 
 - **Reto:** *«Datos sucios, cliente impaciente»*
-- **Qué se entrega:** *informe_calidad.md: qué está mal en reservas_sucio.csv, cuántas filas afecta y qué se hizo con cada defecto (10 defectos, resumen para el gerente, preguntas al cliente, IA responsable y revisión con la rúbrica).
-reto_S06.ipynb: inventario de defectos, función limpiar_reservas, partición, pipeline, baseline, validación cruzada y extras.
-README.md: este documento.*
+- **Qué se entrega:** *  - informe_calidad.md: qué está mal en reservas_sucio.csv, cuántas filas afecta y qué se hizo con cada defecto (10 defectos, resumen para el gerente, preguntas al cliente, IA responsable y revisión con la rúbrica).
+  - reto_S06.ipynb: inventario de defectos, función limpiar_reservas, partición, pipeline, baseline, validación cruzada y extras.
+  - README.md: este documento.*
 - **Quién hizo qué:**
   - Persona 1: Eli
   - Persona 2: Fran
