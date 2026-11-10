@@ -11,10 +11,10 @@
   - Persona 3: Eva
   - Persona 4: Jukeiza
 - **Cómo reproducirlo:**
-*Abrir reto_S06.ipynb en Google Colab (Archivo → Subir cuaderno).
+  - Abrir reto_S06.ipynb en Google Colab (Archivo → Subir cuaderno).
   - Entorno de ejecución → Reiniciar y ejecutar todo. Orden: preparación, inventario, limpieza, partición, pipeline, IA responsable, extras, versiones.
   - La primera celda descarga reservas_sucio.csv desde el repositorio del curso si no está en data/ o datos/.
-  - Cifras de control: 1545 → 1500 filas; AUC en validación cruzada 0,758 ± 0,025 (modelo tonto 0,500).*
+  - Cifras de control: 1545 → 1500 filas; AUC en validación cruzada 0,758 ± 0,025 (modelo tonto 0,500).
 -Versiones
 *Python 3.13, pandas 2.2.3, scikit-learn 1.6.1 (en Colab saldrán otras; las cifras pueden variar en el último decimal).
 Semilla fija: 42. Solo librerías del curso.*
