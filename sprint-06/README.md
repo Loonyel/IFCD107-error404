@@ -2,9 +2,9 @@
 
 - **Reto:** *«Datos sucios, cliente impaciente»*
 - **Qué se entrega:**
-  *- informe_calidad.md: qué está mal en reservas_sucio.csv, cuántas filas afecta y qué se hizo con cada defecto (10 defectos, resumen para el gerente, preguntas al cliente, IA responsable y revisión con la rúbrica).
+  - informe_calidad.md: qué está mal en reservas_sucio.csv, cuántas filas afecta y qué se hizo con cada defecto (10 defectos, resumen para el gerente, preguntas al cliente, IA responsable y revisión con la rúbrica).
   - reto_S06.ipynb: inventario de defectos, función limpiar_reservas, partición, pipeline, baseline, validación cruzada y extras.
-  - README.md: este documento.*
+  - README.md: este documento.
 - **Quién hizo qué:**
   - Persona 1: Eli
   - Persona 2: Fran
@@ -19,7 +19,7 @@
 *Python 3.13, pandas 2.2.3, scikit-learn 1.6.1 (en Colab saldrán otras; las cifras pueden variar en el último decimal).
 Semilla fija: 42. Solo librerías del curso.*
 - Uso de la IA
-*  - Qué se pidió: explicar fillna, drop_duplicates y to_datetime con ejemplos pequeños; depurar un KeyError; revisar si el pipeline tiene fuga de datos; reescribir la tabla del informe sin cambiar cifras.
-   - Qué se revisó: cada línea se ejecutó y se entiende; las cifras del informe salen del cuaderno, no de la IA; no se instaló ningún paquete extra; no se subieron datos personales ni claves.
-   - Qué se cambió: cualquier sugerencia de rellenar nulos antes de partir train y test se descartó, porque sería fuga de datos; la imputación va dentro del Pipeline.
+  - Qué se pidió: explicar fillna, drop_duplicates y to_datetime con ejemplos pequeños; depurar un KeyError; revisar si el pipeline tiene fuga de datos; reescribir la tabla del informe sin cambiar cifras.
+  - Qué se revisó: cada línea se ejecutó y se entiende; las cifras del informe salen del cuaderno, no de la IA; no se instaló ningún paquete extra; no se subieron datos personales ni claves.
+  - Qué se cambió: cualquier sugerencia de rellenar nulos antes de partir train y test se descartó, porque sería fuga de datos; la imputación va dentro del Pipeline.
 (Ejemplo de referencia: cada equipo cuenta lo que hizo de verdad, incluidos los fallos concretos de la IA que detecte.)*
