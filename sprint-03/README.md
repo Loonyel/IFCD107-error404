@@ -7,4 +7,7 @@
   - Persona 2: Jukeiza
   - Persona 3: Eli
   - Persona 4: Fran
-- **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
+- **Cómo reproducirlo:**   - *Abrir Google Colab y subir reto_S07.ipynb desde Archivo → Abrir cuaderno → Subir.*
+  - *Seleccionar Entorno de ejecución → Reiniciar sesión y ejecutar todo.*
+  - *Esperar a que terminen todas las celdas y comprobar que no aparecen errores.*
+
