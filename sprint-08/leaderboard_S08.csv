@@ -1,0 +1,9 @@
+modelo,familia,auc_cv_media,auc_cv_desv,ap_cv_media,seg_ajuste,ms_pred_1000,tamano_kb,explicabilidad_1a5,notas,auc_test
+logistica,lineal,0.7546,0.0136,0.7183,0.384,30.5,4.2,4,La más sencilla de explicar,
+lightgbm_ajustado,ensemble_boosting,0.747,0.0152,0.7094,0.105,16.1,123.5,2,Búsqueda aleatoria de 20 combinaciones,
+lightgbm,ensemble_boosting,0.7451,0.0143,0.7062,0.094,14.3,107.2,2,Árboles pequeños en cadena,
+random_forest_ajustado,ensemble_bagging,0.7435,0.0129,0.6994,0.575,54.8,1581.5,2,Rejilla de 8 combinaciones,
+random_forest,ensemble_bagging,0.7373,0.0119,0.6916,1.311,86.0,11847.0,2,200 árboles que votan,
+svm_rbf,svm,0.7346,0.0118,0.6883,5.113,240.7,1008.8,1,"Caja negra, la más lenta",
+arbol_podado,arbol,0.7194,0.0095,0.6668,0.035,8.7,11.0,5,Reglas fáciles de leer,0.7166
+baseline,referencia,0.5,0.0,0.459,0.228,53.2,3.2,5,Siempre predice lo más habitual,
