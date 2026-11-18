@@ -1,6 +1,6 @@
 # Sprint 11 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
+- **Reto:** *Visión por computador*
 - **Qué se entrega:** *(notebook, documento…)*
 - **Quién hizo qué:**
   - Persona 1:
