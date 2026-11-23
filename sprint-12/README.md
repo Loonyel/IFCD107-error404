@@ -1,6 +1,6 @@
 # Sprint 12 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
+- **Reto:** *Lenguaje, secuencias y modelos generativos (+ informe visual)*
 - **Qué se entrega:** *(notebook, documento…)*
 - **Quién hizo qué:**
   - Persona 1:
