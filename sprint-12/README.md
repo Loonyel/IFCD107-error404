@@ -17,8 +17,9 @@
   - Persona 4: Fran
 - **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
 
-- | **Cuaderno** | **Resultado** |
-| --- | --- |
+- 
+| **Cuaderno** | **Resultado** |
+|--------------|---------------|
 | resenas.ipynb | **99,2 %** de exactitud en prueba |
 | ocupacion.ipynb | **MAE de 3,18** con SARIMAX frente a **4,46** con el *baseline* |
 | asistente_rag.ipynb | **24/25** aciertos, 0 respuestas sin fuente y 0 alucinaciones detectadas |
