@@ -17,7 +17,6 @@
   - Persona 4: Fran
 - **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
 
-- 
 | **Cuaderno** | **Resultado** |
 |--------------|---------------|
 | resenas.ipynb | **99,2 %** de exactitud en prueba |
