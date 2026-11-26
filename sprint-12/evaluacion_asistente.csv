@@ -1,0 +1,26 @@
+pregunta,acierto,sin_fuente,alucinacion,respuesta
+¿Hasta cuándo puedo cancelar gratis una reserva flexible?,True,False,False,Las reservas con tarifa flexible se pueden cancelar gratis hasta 48 horas antes de la llegada. [1] (Fuente: 1. Reservas y cancelaciones)
+¿Se devuelve el dinero de una tarifa no reembolsable?,True,False,False,"Las reservas con tarifa no reembolsable no admiten cancelación ni reembolso, salvo por causa de fuerza mayor documentada. [1] (Fuente: 1. Reservas y cancelaciones)"
+¿A qué hora es el check-in?,True,False,False,La entrada (check-in) es a partir de las 15:00 y la salida (check-out) es hasta las 11:00. [1] (Fuente: 2. Entrada y salida)
+¿A qué hora hay que dejar la habitación?,True,False,False,La entrada (check-in) es a partir de las 15:00 y la salida (check-out) es hasta las 11:00. [1] (Fuente: 2. Entrada y salida)
+¿Cuánto cuesta la entrada anticipada?,True,False,False,Se puede solicitar entrada anticipada o salida tardía; tiene un suplemento de 20 euros y depende de la disponibilidad. [1] (Fuente: 2. Entrada y salida)
+¿Puedo dejar el equipaje antes de la entrada?,True,False,False,Hay consigna gratuita de equipaje el día de la llegada y el de la salida. [1] (Fuente: 2. Entrada y salida)
+¿Admiten perros?,True,False,False,"Se admiten perros y gatos de hasta 10 kg en los apartamentos, con un suplemento de 15 euros por estancia. [1] (Fuente: 3. Mascotas)"
+¿Se admiten mascotas en las suites?,True,False,False,No se admiten mascotas en las suites. [1] (Fuente: 3. Mascotas)
+¿Los bebés pagan?,True,False,False,"Los niños hasta 3 años se alojan gratis en cuna, que hay que solicitar al reservar. [1] (Fuente: 4. Niños)"
+¿Qué descuento tienen los niños de 8 años?,True,False,False,De 4 a 12 años tienen un 50 % de descuento en la habitación familiar. [1] (Fuente: 4. Niños)
+¿A qué hora es el desayuno?,False,False,False,"El régimen de media pensión incluye desayuno y cena, sin bebidas. [1] (Fuente: 5. Desayuno y comidas)"
+¿Qué incluye la media pensión?,True,False,False,"El régimen de media pensión incluye desayuno y cena, sin bebidas. [1] (Fuente: 5. Desayuno y comidas)"
+¿Hay opciones sin gluten?,True,False,False,"Ofrecemos opciones sin gluten, sin lactosa y vegetarianas si se avisa con 24 horas de antelación. [1] (Fuente: 5. Desayuno y comidas)"
+¿Aceptan cheques?,True,False,False,No se aceptan cheques. [1] (Fuente: 6. Pagos)
+¿Qué porcentaje se cobra como depósito parcial?,True,False,False,El depósito parcial es del 30 % y se cobra al confirmar la reserva. [1] (Fuente: 6. Pagos)
+¿El wifi tiene coste?,True,False,False,Wifi gratuito en todo el alojamiento. [1] (Fuente: 7. Servicios)
+¿Cuánto cuesta el aparcamiento?,True,False,False,Aparcamiento por 8 euros al día con reserva previa. [1] (Fuente: 7. Servicios)
+¿Hasta qué hora está abierta la piscina?,True,False,False,Piscina abierta de 9:00 a 20:00. [1] (Fuente: 7. Servicios)
+¿Se puede fumar en la habitación?,True,False,False,No se permite fumar dentro de las habitaciones; hay zonas habilitadas en el exterior. [1] (Fuente: 8. Normas de convivencia)
+¿Tienen gimnasio?,True,False,False,No consta en la política del alojamiento.
+¿Pueden entrar las mascotas en el comedor?,True,False,False,Las mascotas no pueden quedarse solas en la habitación ni entrar en el comedor. [1] (Fuente: 3. Mascotas)
+¿Hasta qué hora se sirven bebidas locales en el bar con el todo incluido?,True,False,False,El régimen todo incluido incluye bebidas locales en el bar hasta las 23:00. [1] (Fuente: 5. Desayuno y comidas)
+¿Se puede pagar por transferencia bancaria?,True,False,False,Se aceptan tarjetas de crédito y débito y transferencia bancaria. [1] (Fuente: 6. Pagos)
+¿Cuál es el horario de silencio?,True,False,False,Horario de silencio de 23:00 a 8:00. [1] (Fuente: 8. Normas de convivencia)
+¿Hay sauna?,True,False,False,No consta en la política del alojamiento.
