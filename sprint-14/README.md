@@ -1,9 +1,10 @@
 # Sprint 14 · Entregable
 
-- **Reto:** *(copia el nombre del reto de la ficha del sprint)*
+- **Reto:** *Proyecto · Reto, equipo y datos*
 - **Qué se entrega:** *(notebook, documento…)*
 - **Quién hizo qué:**
-  - Persona 1:
-  - Persona 2:
-  - Persona 3:
+  - Persona 1: Eva
+  - Persona 2: Jukeiza
+  - Persona 3: Eli
+  - Persona 4: Fran
 - **Cómo reproducirlo:** *(pasos para ejecutarlo; si es un notebook, ábrelo en Colab y ejecútalo de arriba abajo)*
