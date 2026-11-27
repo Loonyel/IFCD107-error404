@@ -1,0 +1,14 @@
+{
+  "oferta": 2751,
+  "fichas": 163,
+  "total": 2914,
+  "combinaciones_cubiertas": 419,
+  "fuentes_principales": 157,
+  "fichas_adaptada": 7,
+  "ids_anteriores_conservados": 162,
+  "sha256": {
+    "corpus_fp_canarias_ampliado.csv": "be86c43d3f3604ff07fafebb13acba86a2899f19af6cf1eea4d0099445e9765f",
+    "informacion_fp_oficial.csv": "5011fdeaff7d3bfe5e23cd7011eab325c6999f9f56fb87062137072ebbef1294",
+    "mapa_ensenanzas_fichas.csv": "5374291d9e32f4590fa430e0d2dc2d3beac8bee9533239e9c0cdef6247349595"
+  }
+}
